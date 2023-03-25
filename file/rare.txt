@@ -1,0 +1,8 @@
+axe = 36
+saw = 54
+tnt = 72
+bom = 25
+shovel = 108
+bem = 270
+lem = 403
+pickaxe = 126
